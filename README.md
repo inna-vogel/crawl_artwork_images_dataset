@@ -9,14 +9,10 @@ The website is a collaboration between over 3,200 British institutions.
 
 1. All URLs from the webpage: https://artuk.org/ are crawled and stores in .txt file.
 2. Script ro crawl URLs from webpage.
-3. Scrips to crawl  
+3. Scrips to crawl images from the website.  
  
-
-
-
-
 
 The only thing you need to do is to place the path to the folder you want the artwork to be saved.
 
-Work in progress...
+
  
