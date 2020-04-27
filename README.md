@@ -7,7 +7,7 @@ Art UK offers access to every public art collection in the UK.
  
 The website is a collaboration between over 3,200 British institutions.
 
-1. All URLs from the webpage: https://artuk.org/ are crawled and stores in .txt file.
+1. All URLs from the webpage: the website https://artuk.org/ was crawled and the URLs stored in .txt file.
 2. Script ro crawl URLs from webpage.
 3. Scrips to crawl images from the website.  
  
