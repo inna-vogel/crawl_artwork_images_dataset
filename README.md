@@ -12,7 +12,7 @@ The website is a collaboration between over 3,200 British institutions.
 3. Scrips to crawl images from the website.  
  
 
-The only thing you need to do is to place the path to the folder you want the artwork to be saved.
+The only thing you need to do is to place the path to the folder you want the artwork to be saved. 
 
 
  
